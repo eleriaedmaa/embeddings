@@ -12,7 +12,7 @@ Sense inventory is induced from word embeddings.
 
 ----
 
-##Parameters##
+## Parameters ##
 
 Models were trained using various parameter settings. The values of architecture, number of dimensions, window size, minimum frequency threshold and number of iterations vary, but other parameters follow default values declared [here](https://github.com/uhh-lt/sensegram). 
 
