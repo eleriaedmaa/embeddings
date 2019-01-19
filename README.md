@@ -12,7 +12,7 @@ Sense inventory is induced from word embeddings.
 
 ----
 
-## Parameters ##
+##Parameters##
 
 Models were trained using various parameter settings. The values of architecture, number of dimensions, window size, minimum frequency threshold and number of iterations vary, but other parameters follow default values declared [here](https://github.com/uhh-lt/sensegram). 
 
@@ -47,6 +47,7 @@ architecture  | dimensions   | window size  | mininum count  | iterations  | dow
 ------------- | -------------| -------------| -------------| -------------| -------------
 CBOW  | 100| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_100_5_10_20.zip">cbow\_100\_5\_10\_20.zip</a>
 CBOW  | 150| 15| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_150_15_10_20.zip">cbow\_150\_15\_10\_20.zip</a>
+CBOW  | 150| 15| 5| 20| <a href="http://193.40.33.66/pretrained/cbow_150_15_5_20.zip">cbow\_150\_15\_5\_20.zip</a>
 CBOW  | 150| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_150_5_10_20.zip">cbow\_150\_5\_10\_20.zip</a>
 CBOW  | 150| 5| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_150_5_10_5.zip">cbow\_150\_5\_10\_5.zip</a>
 CBOW  | 150| 5| 5| 20| <a href="http://193.40.33.66/pretrained/cbow_150_5_5_20.zip">cbow\_150\_5\_5\_20.zip</a>
@@ -60,6 +61,7 @@ CBOW  | 300| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_5_10_20
 CBOW  | 300| 5| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_300_5_10_5.zip">cbow\_300\_5\_10\_5.zip</a>
 CBOW  | 300| 5| 15| 5| <a href="http://193.40.33.66/pretrained/cbow_300_5_15_5.zip">cbow\_300\_5\_15\_5.zip</a>
 CBOW  | 300| 5| 2| 20| <a href="http://193.40.33.66/pretrained/cbow_300_5_2_20.zip">cbow\_300\_5\_2\_20.zip</a>
+CBOW  | 300| 5| 5| 20| <a href="http://193.40.33.66/pretrained/cbow_300_5_5_20.zip">cbow\_300\_5\_5\_20.zip</a>
 CBOW  | 300| 5| 5| 5| <a href="http://193.40.33.66/pretrained/cbow_300_5_5_5.zip">cbow\_300\_5\_5\_5.zip</a>
 CBOW  | 450| 5| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_450_5_10_5.zip">cbow\_450\_5\_10\_5.zip</a>
 CBOW  | 750| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_750_5_10_20.zip">cbow\_750\_5\_10\_20.zip</a>
