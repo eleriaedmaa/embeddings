@@ -45,7 +45,7 @@ The **format** of the folder name is following: *architecture\_dimensions\_windo
 
 architecture  | dimensions   | window size  | mininum count  | iterations  | download 
 ------------- | -------------| -------------| -------------| -------------| -------------
-CBOW  | 100| 5| 10| 20| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EenCeNgsurRMgMCuWxvNlbQBrRE9rAkU8YRardUCSV7jIg?e=xgwgwJ" download>cbow\_100\_5\_10\_20.zip</a>
+CBOW  | 100| 5| 10| 20| <a href="" download>cbow\_100\_5\_10\_20.zip</a>
 CBOW  | 150| 15| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_150_15_10_20.zip">cbow\_150\_15\_10\_20.zip</a>
 CBOW  | 150| 15| 5| 20| <a href="http://193.40.33.66/pretrained/cbow_150_15_5_20.zip">cbow\_150\_15\_5\_20.zip</a>
 CBOW  | 150| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_150_5_10_20.zip">cbow\_150\_5\_10\_20.zip</a>
@@ -73,7 +73,7 @@ Skip-gram | 300| 5| 10| 20| <a href="http://193.40.33.66/pretrained/skip_300_5_1
 Skip-gram | 300| 5| 10| 5| <a href="http://193.40.33.66/pretrained/skip_300_5_10_5.zip">skip\_300\_5\_10\_5.zip</a>
 Skip-gram | 300| 5| 15| 5| <a href="http://193.40.33.66/pretrained/skip_300_5_15_5.zip">skip\_300\_5\_15\_5.zip</a>
 Skip-gram | 300| 5| 5| 5| <a href="http://193.40.33.66/pretrained/skip_300_5_5_5.zip">skip\_300\_5\_5\_5.zip</a>
-Skip-gram | 450| 5| 10| 5| <a href="">skip\_450\_5\_10\_5.zip</a>
+Skip-gram | 450| 5| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EenCeNgsurRMgMCuWxvNlbQBrRE9rAkU8YRardUCSV7jIg?e=xgwgwJ">skip\_450\_5\_10\_5.zip</a>
 
 -----
 
