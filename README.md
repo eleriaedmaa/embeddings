@@ -56,7 +56,7 @@ CBOW  | 300| 15| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_15_10_
 CBOW  | 300| 15| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_300_15_10_5.zip">cbow\_300\_15\_10\_5.zip</a>
 CBOW  | 300| 1| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_1_10_20.zip">cbow\_300\_1\_10\_20.zip</a>
 CBOW  | 300| 30| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_30_10_20.zip">cbow\_300\_30\_10\_20.zip</a>
-CBOW  | 300| 5| 10| 10| <a href="http://193.40.33.66/pretrained/cbow_300_5_10_10.zip">cbow\_300\_5\_10\_10.zip</a>
+CBOW  | 300| 5| 10| 10| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EfUe4o-XqdFNvtVTccchX_ABXCz_rvV2siqBPH1JdqVVUw?e=egaDRb">cbow\_300\_5\_10\_10.zip</a>
 CBOW  | 300| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_5_10_20.zip">cbow\_300\_5\_10\_20.zip</a>
 CBOW  | 300| 5| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_300_5_10_5.zip">cbow\_300\_5\_10\_5.zip</a>
 CBOW  | 300| 5| 15| 5| <a href="http://193.40.33.66/pretrained/cbow_300_5_15_5.zip">cbow\_300\_5\_15\_5.zip</a>
