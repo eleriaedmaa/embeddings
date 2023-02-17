@@ -45,7 +45,7 @@ The **format** of the folder name is following: *architecture\_dimensions\_windo
 
 architecture  | dimensions   | window size  | mininum count  | iterations  | download 
 ------------- | -------------| -------------| -------------| -------------| -------------
-CBOW  | 100| 5| 10| 20| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EfUe4o-XqdFNvtVTccchX_ABXCz_rvV2siqBPH1JdqVVUw?e=bJzw0S">cbow\_100\_5\_10\_20.zip target="_blank">Download</a>
+CBOW  | 100| 5| 10| 20| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EfUe4o-XqdFNvtVTccchX_ABXCz_rvV2siqBPH1JdqVVUw?e=bJzw0S">cbow\_100\_5\_10\_20.zip</a>
 CBOW  | 150| 15| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_150_15_10_20.zip">cbow\_150\_15\_10\_20.zip</a>
 CBOW  | 150| 15| 5| 20| <a href="http://193.40.33.66/pretrained/cbow_150_15_5_20.zip">cbow\_150\_15\_5\_20.zip</a>
 CBOW  | 150| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_150_5_10_20.zip">cbow\_150\_5\_10\_20.zip</a>
