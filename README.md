@@ -46,34 +46,34 @@ The **format** of the folder name is following: *architecture\_dimensions\_windo
 architecture  | dimensions   | window size  | mininum count  | iterations  | download 
 ------------- | -------------| -------------| -------------| -------------| -------------
 CBOW  | 100| 5| 10| 20| <a href="" download>cbow\_100\_5\_10\_20.zip</a>
-CBOW  | 150| 15| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_150_15_10_20.zip">cbow\_150\_15\_10\_20.zip</a>
-CBOW  | 150| 15| 5| 20| <a href="http://193.40.33.66/pretrained/cbow_150_15_5_20.zip">cbow\_150\_15\_5\_20.zip</a>
-CBOW  | 150| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_150_5_10_20.zip">cbow\_150\_5\_10\_20.zip</a>
-CBOW  | 150| 5| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_150_5_10_5.zip">cbow\_150\_5\_10\_5.zip</a>
-CBOW  | 150| 5| 5| 20| <a href="http://193.40.33.66/pretrained/cbow_150_5_5_20.zip">cbow\_150\_5\_5\_20.zip</a>
-CBOW  | 300| 10| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_300_10_10_5.zip">cbow\_300\_10\_10\_5.zip</a>
-CBOW  | 300| 15| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_15_10_20.zip">cbow\_300\_15\_10\_20.zip</a>
-CBOW  | 300| 15| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_300_15_10_5.zip">cbow\_300\_15\_10\_5.zip</a>
-CBOW  | 300| 1| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_1_10_20.zip">cbow\_300\_1\_10\_20.zip</a>
-CBOW  | 300| 30| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_30_10_20.zip">cbow\_300\_30\_10\_20.zip</a>
-CBOW  | 300| 5| 10| 10| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EfUe4o-XqdFNvtVTccchX_ABXCz_rvV2siqBPH1JdqVVUw?e=egaDRb">cbow\_300\_5\_10\_10.zip</a>
-CBOW  | 300| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_300_5_10_20.zip">cbow\_300\_5\_10\_20.zip</a>
-CBOW  | 300| 5| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_300_5_10_5.zip">cbow\_300\_5\_10\_5.zip</a>
-CBOW  | 300| 5| 15| 5| <a href="http://193.40.33.66/pretrained/cbow_300_5_15_5.zip">cbow\_300\_5\_15\_5.zip</a>
-CBOW  | 300| 5| 2| 20| <a href="http://193.40.33.66/pretrained/cbow_300_5_2_20.zip">cbow\_300\_5\_2\_20.zip</a>
-CBOW  | 300| 5| 5| 20| <a href="http://193.40.33.66/pretrained/cbow_300_5_5_20.zip">cbow\_300\_5\_5\_20.zip</a>
-CBOW  | 300| 5| 5| 5| <a href="http://193.40.33.66/pretrained/cbow_300_5_5_5.zip">cbow\_300\_5\_5\_5.zip</a>
-CBOW  | 450| 5| 10| 5| <a href="http://193.40.33.66/pretrained/cbow_450_5_10_5.zip">cbow\_450\_5\_10\_5.zip</a>
-CBOW  | 750| 5| 10| 20| <a href="http://193.40.33.66/pretrained/cbow_750_5_10_20.zip">cbow\_750\_5\_10\_20.zip</a>
-Skip-gram | 150| 5| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/ERRS139a7rNGnrDUQaZ1Jy8BE6pqOWGrpfR98CqURKY5yQ?e=f1OeOM">skip\_150\_5\_10\_5.zip</a>
-Skip-gram | 300| 10| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EWbRr9fyQKFNv-5-4xipERUBXYzBH3hWSkzgYOe5s826kw?e=ARjTWQ">skip\_300\_10\_10\_5.zip</a>
+CBOW  | 150| 15| 10| 20| <a href="">cbow\_150\_15\_10\_20.zip</a>
+CBOW  | 150| 15| 5| 20| <a href="">cbow\_150\_15\_5\_20.zip</a>
+CBOW  | 150| 5| 10| 20| <a href="">cbow\_150\_5\_10\_20.zip</a>
+CBOW  | 150| 5| 10| 5| <a href="">cbow\_150\_5\_10\_5.zip</a>
+CBOW  | 150| 5| 5| 20| <a href="">cbow\_150\_5\_5\_20.zip</a>
+CBOW  | 300| 10| 10| 5| <a href="">cbow\_300\_10\_10\_5.zip</a>
+CBOW  | 300| 15| 10| 20| <a href="">cbow\_300\_15\_10\_20.zip</a>
+CBOW  | 300| 15| 10| 5| <a href="">cbow\_300\_15\_10\_5.zip</a>
+CBOW  | 300| 1| 10| 20| <a href="">cbow\_300\_1\_10\_20.zip</a>
+CBOW  | 300| 30| 10| 20| <a href="">cbow\_300\_30\_10\_20.zip</a>
+CBOW  | 300| 5| 10| 10| <a href="">cbow\_300\_5\_10\_10.zip</a>
+CBOW  | 300| 5| 10| 20| <a href="">cbow\_300\_5\_10\_20.zip</a>
+CBOW  | 300| 5| 10| 5| <a href="">cbow\_300\_5\_10\_5.zip</a>
+CBOW  | 300| 5| 15| 5| <a href="">cbow\_300\_5\_15\_5.zip</a>
+CBOW  | 300| 5| 2| 20| <a href="">cbow\_300\_5\_2\_20.zip</a>
+CBOW  | 300| 5| 5| 20| <a href="">cbow\_300\_5\_5\_20.zip</a>
+CBOW  | 300| 5| 5| 5| <a href="">cbow\_300\_5\_5\_5.zip</a>
+CBOW  | 450| 5| 10| 5| <a href="">cbow\_450\_5\_10\_5.zip</a>
+CBOW  | 750| 5| 10| 20| <a href="">cbow\_750\_5\_10\_20.zip</a>
+Skip-gram | 150| 5| 10| 5| <a href="">skip\_150\_5\_10\_5.zip</a>
+Skip-gram | 300| 10| 10| 5| <a href="">skip\_300\_10\_10\_5.zip</a>
 Skip-gram | 300| 15| 10| 5| <a href="">skip\_300\_15\_10\_5.zip</a>
 Skip-gram | 300| 5| 10| 10| <a href="">skip\_300\_5\_10\_10.zip</a>
-Skip-gram | 300| 5| 10| 20| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/ERk-w-2CozZBmX5ojuMc8Q8B1S3tKz-gsUc0NHYOkyGqgw?e=AI4ZSw">skip\_300\_5\_10\_20.zip</a>
-Skip-gram | 300| 5| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EXnBU8JtnyxMtFJRFqBmvW4BQeGa63TN0czTnv5Gjz76gw?e=Ttd4nb">skip\_300\_5\_10\_5.zip</a>
-Skip-gram | 300| 5| 15| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EVZRI_imAZlFsAK_01o-q58BzhwJxfhLWXhU4kAzk7FB5A?e=7PxtEV">skip\_300\_5\_15\_5.zip</a>
+Skip-gram | 300| 5| 10| 20| <a href="">skip\_300\_5\_10\_20.zip</a>
+Skip-gram | 300| 5| 10| 5| <a href="">skip\_300\_5\_10\_5.zip</a>
+Skip-gram | 300| 5| 15| 5| <a href="">skip\_300\_5\_15\_5.zip</a>
 Skip-gram | 300| 5| 5| 5| <a href="">skip\_300\_5\_5\_5.zip</a>
-Skip-gram | 450| 5| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EenCeNgsurRMgMCuWxvNlbQBrRE9rAkU8YRardUCSV7jIg?e=xgwgwJ">skip\_450\_5\_10\_5.zip</a>
+Skip-gram | 450| 5| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EenCeNgsurRMgMCuWxvNlbQBrRE9rAkU8YRardUCSV7jIg?e=4C4gqi">skip\_450\_5\_10\_5.zip</a>
 
 
 -----
