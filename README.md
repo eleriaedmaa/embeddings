@@ -65,14 +65,14 @@ CBOW  | 300| 5| 5| 20| <a href="">cbow\_300\_5\_5\_20.zip</a>
 CBOW  | 300| 5| 5| 5| <a href="">cbow\_300\_5\_5\_5.zip</a>
 CBOW  | 450| 5| 10| 5| <a href="">cbow\_450\_5\_10\_5.zip</a>
 CBOW  | 750| 5| 10| 20| <a href="">cbow\_750\_5\_10\_20.zip</a>
-Skip-gram | 150| 5| 10| 5| <a href="">skip\_150\_5\_10\_5.zip</a>
-Skip-gram | 300| 10| 10| 5| <a href="">skip\_300\_10\_10\_5.zip</a>
-Skip-gram | 300| 15| 10| 5| <a href="">skip\_300\_15\_10\_5.zip</a>
-Skip-gram | 300| 5| 10| 10| <a href="">skip\_300\_5\_10\_10.zip</a>
-Skip-gram | 300| 5| 10| 20| <a href="">skip\_300\_5\_10\_20.zip</a>
-Skip-gram | 300| 5| 10| 5| <a href="">skip\_300\_5\_10\_5.zip</a>
-Skip-gram | 300| 5| 15| 5| <a href="">skip\_300\_5\_15\_5.zip</a>
-Skip-gram | 300| 5| 5| 5| <a href="">skip\_300\_5\_5\_5.zip</a>
+Skip-gram | 150| 5| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/ERRS139a7rNGnrDUQaZ1Jy8BE6pqOWGrpfR98CqURKY5yQ?e=FCEYgP">skip\_150\_5\_10\_5.zip</a>
+Skip-gram | 300| 10| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EWbRr9fyQKFNv-5-4xipERUBXYzBH3hWSkzgYOe5s826kw?e=q8oF7B">skip\_300\_10\_10\_5.zip</a>
+Skip-gram | 300| 15| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/ET6cHakIqaJEp6knsJa179kBjIxxiulKF6XYz3jyOKaoSA?e=A9M4d2">skip\_300\_15\_10\_5.zip</a>
+Skip-gram | 300| 5| 10| 10| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EeCD3Xi5Mb1MmS0kwVOAsa0BnSt0QAspiK8QyAvM78o1Bg?e=sUR0yF">skip\_300\_5\_10\_10.zip</a>
+Skip-gram | 300| 5| 10| 20| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/ERk-w-2CozZBmX5ojuMc8Q8B1S3tKz-gsUc0NHYOkyGqgw?e=zPG9v0">skip\_300\_5\_10\_20.zip</a>
+Skip-gram | 300| 5| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EXnBU8JtnyxMtFJRFqBmvW4BQeGa63TN0czTnv5Gjz76gw?e=7kAmUK">skip\_300\_5\_10\_5.zip</a>
+Skip-gram | 300| 5| 15| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EVZRI_imAZlFsAK_01o-q58BzhwJxfhLWXhU4kAzk7FB5A?e=IJm3RK">skip\_300\_5\_15\_5.zip</a>
+Skip-gram | 300| 5| 5| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/ESJVVRish9FDmyT2RoKeT0cBpvu_sF8HzB515HYAPBgjSQ?e=3BKWQf">skip\_300\_5\_5\_5.zip</a>
 Skip-gram | 450| 5| 10| 5| <a href="https://eestikeeleinstituut-my.sharepoint.com/:u:/g/personal/eleri_aedmaa_eki_ee/EenCeNgsurRMgMCuWxvNlbQBrRE9rAkU8YRardUCSV7jIg?e=4C4gqi">skip\_450\_5\_10\_5.zip</a>
 
 
